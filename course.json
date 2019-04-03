@@ -5,6 +5,7 @@
         {
             "slug": "assignment_01",
             "publishingDate": "2019-05-01",
+            "deadline": "2019-05-08",
             "items": [
                 {
                     "slug":"intro",
@@ -23,6 +24,7 @@
         {
             "slug": "chapter_01",
             "publishingDate": "2019-05-01",
+            "deadline": "2019-05-08",
             "items": [
                 {
                     "slug":"chapter_01"
