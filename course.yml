@@ -1,0 +1,11 @@
+name: Informatics 1
+description: course description
+owner: dr.prof@uzh.ch
+assistants: {
+  "ludwig.abeille@uzh.ch",
+  "carl-friedlich.abel@uzh.ch"
+}
+students: {
+  "philippine.schick@uzh.ch",
+  "johann.schop@uzh.ch"
+}
