@@ -1,6 +1,8 @@
 {
     "title": "Informatics 1",
     "description": "course description",
+    "startDate":"03.03.2001",
+    "endDate":"08.08.2001",
     "owner": "dr.prof@uzh.ch",
     "assistants": [
         "ludwig.abeille@uzh.ch",
