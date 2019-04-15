@@ -1,0 +1,1 @@
+In the following exercise series, you will learn about String manipulation
