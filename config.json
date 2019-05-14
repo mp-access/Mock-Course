@@ -5,10 +5,10 @@
     "endDate":"2020-01-01",
     "owner": "dr.prof@uzh.ch",
     "assistants": [
-        "ludwig.abeille@uzh.ch",
+        "ludwig.abeille@uzh.ch"
     ],
     "students": [
-        "carl-friedlich.abel@uzh.ch"
+        "carl-friedlich.abel@uzh.ch",
         "philippine.schick@uzh.ch",
         "johann.schop@uzh.ch"
     ]
