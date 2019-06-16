@@ -31,8 +31,3 @@ if __name__ == '__main__':
     # Intercontinental flight Boeing-747: passenger count 500, cargo load 100
     # Short haul flight serial number 0, name Airbus-A220: passenger count 110
     # Short haul flight serial number 1, name Airbus-A220: passenger count 85
-    
-    # I just made a change
-    # Don't mind me
-    # Almost done
-    # last one!
