@@ -1,3 +1,3 @@
-# Informatics 2
+# Informatics 1
 
-Algodat + Modelling
+Introduction to programming
