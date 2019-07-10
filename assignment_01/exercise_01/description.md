@@ -1,6 +1,4 @@
-# Task: UZH Airlines (5 Points) *Updated*
-
-*Updated again*
+# Task: UZH Airlines (5 Points)
 
 I have just updated the question
 
