@@ -6,17 +6,14 @@ from unittest.mock import patch
 
 devnull = open(os.devnull, 'w')
 # Load once to enable reloading
-# Patch input to pass input() values
-# Path stdout and stderr to suppress writing to console for the tests
-with patch('sys.stdout', devnull):
-    with patch('sys.stderr', devnull):
-        import public.script
+# Patch stderr to suppress writing to console for code under test
+with patch('sys.stderr', devnull):
+    import public.script
 
 
 def reload_module(module):
-    with patch('sys.stdout', devnull):
-        with patch('sys.stderr', devnull):
-            return importlib.reload(module)
+    with patch('sys.stderr', devnull):
+        return importlib.reload(module)
 
 
 class Task2B(TestCase):
