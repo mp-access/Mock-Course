@@ -10,7 +10,7 @@ devnull = open(os.devnull, 'w')
 # Path stdout and stderr to suppress writing to console for the tests
 with patch('sys.stdout', devnull):
     with patch('sys.stderr', devnull):
-        import code.script
+        import public.script
 
 
 def reload_module(module):
@@ -26,7 +26,7 @@ class Task2B(TestCase):
 
     # Reloads the module with the same user input each time
     def setUp(self):
-        self.exercise = reload_module(code.script)
+        self.exercise = reload_module(public.script)
 
     def test_doghouse(self):
         self.assertTrue(hasattr(self.exercise, "dog"), "You must declare 'dog'")
