@@ -1,4 +1,5 @@
 {
     "type":"multipleChoice",
-    "solution":"Zuerich"
+    "solutions": ["Zuerich"],
+    "options": ["Zuerich", "Bern", "Dubai", "Tokyo"]
 }
