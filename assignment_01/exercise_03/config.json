@@ -3,5 +3,6 @@
     "solutions": ["Bern"],
     "options": ["Zuerich", "Bern", "Dubai", "Tokyo"],
     "maxScore": 2,
-    "maxSubmits": 99
+    "maxSubmits": 99,
+    "hints": ["Nich Zürich"]
 }
