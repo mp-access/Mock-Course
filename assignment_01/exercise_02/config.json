@@ -2,5 +2,6 @@
     "type": "text",
     "solutions": ["100"],
     "maxScore": 1,
-    "hints": ["Think really really hard.", "It shouldn't be that hard!"]
+    "hints": ["Think really really hard.", "It shouldn't be that hard!"],
+    "maxSubmits": 5
 }
