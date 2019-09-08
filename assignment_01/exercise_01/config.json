@@ -1,5 +1,11 @@
 {
     "type":"code",
     "language":"python",
-    "maxSubmits": 3
+    "maxSubmits": 3,
+    "executionLimits": {
+        "memory": "64",
+        "cpuCores": "1",
+        "timeout": "5000",
+        "networking": false
+    }
 }
