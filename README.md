@@ -1,3 +1,3 @@
 # Informatics 1
 
-Introduction to programming with python
+Introduction to programming with python.
