@@ -5,7 +5,7 @@
     "executionLimits": {
         "memory": "64",
         "cpuCores": "1",
-        "timeout": "5000",
+        "timeout": "10000",
         "networking": false
     }
 }
