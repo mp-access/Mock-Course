@@ -6,6 +6,6 @@
         "memory": "64",
         "cpuCores": "1",
         "timeout": "10000",
-        "networking": false
+        "networking": true
     }
 }
