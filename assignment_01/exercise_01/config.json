@@ -2,6 +2,7 @@
     "type":"code",
     "language":"python",
     "maxSubmits": 3,
+    "maxScore": 10,
     "executionLimits": {
         "memory": "64",
         "cpuCores": "1",
