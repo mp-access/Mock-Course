@@ -11,6 +11,7 @@
         "assistant@test.uzh.ch"
     ],
     "students": [
-        "student@test.uzh.ch"
+        "student@test.uzh.ch",
+        "dont-use-user-results-export@test.uzh.ch"
     ]
 }
