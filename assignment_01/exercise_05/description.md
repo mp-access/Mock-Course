@@ -1,6 +1,6 @@
 # What's the output?
 
-What is the output of the following snippet of code?
+What is the output of the following snippet of code? Why is this so long?
 
 ```brainfuck
 -,+[                         
