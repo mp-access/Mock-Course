@@ -1,4 +1,4 @@
-# Task: University Management System (5 Points)
+# Task: University Management (5 Points)
 
 To familiarize yourself further with the concept of inheritance, in this task you will implement a simple university management software that manages students (enrolled and alumni) and lecturers.
 Before you start coding, also read the detailed instructions carefully. It is important that you follow the instructions precisely and name your classes, variables and methods exactly as indicated.
