@@ -4,6 +4,7 @@ To familiarize yourself further with the concept of inheritance, in this task yo
 Before you start coding, also read the detailed instructions carefully. It is important that you follow the instructions precisely and name your classes, variables and methods exactly as indicated.
 
 **Instructions:**
+Update to description
 - Create a class UniPerson:
     * It must be initialized with a name argument. Store the name as a protected instance variable (for reference, see lecture slides page 62). Also create a private instance variable `__inbox` which is an empty list.
     * Define a method receive_email(text) which just stores (i.e., appends) the received text in the inbox.
