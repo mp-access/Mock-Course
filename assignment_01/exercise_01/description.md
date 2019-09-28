@@ -25,6 +25,24 @@ Lastly, add the control tower `ControlTower` which keeps an eye on a list of air
 
 ![image](resource/illustration.png)
 
+## Code
+```js
+var React = require('react');
+var Markdown = require('react-markdown');
+
+React.render(
+  <Markdown source="# Your markdown here" />,
+  document.getElementById('content')
+);
+```
+
+## Tables?
+
+| Feature   | asdf |
+| --------- | ------- |
+| a    | ✔ |
+| b | ✔ |
+| c      | ✔ |
 
 
-<img src="resource/doruk-yemenici-1394077-unsplash.jpg" />
+![image](resource/doruk-yemenici-1394077-unsplash.jpg)
