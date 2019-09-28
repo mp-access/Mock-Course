@@ -25,3 +25,6 @@ Lastly, add the control tower `ControlTower` which keeps an eye on a list of air
 
 ![image](resource/illustration.png)
 
+
+
+<img src="resource/doruk-yemenici-1394077-unsplash.jpg" />
