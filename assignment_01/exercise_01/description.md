@@ -22,3 +22,6 @@ Additionally, each airplane should hold a manifest of what they are transporting
 - `ShortHaulAircraft: Short haul flight serial number {serial number}, name {name}: passenger count {passengers}`, e.g. `Short haul flight serial number 1, name Airbus-A220: passenger count 85`
 
 Lastly, add the control tower `ControlTower` which keeps an eye on a list of aircrafts. It should be possible to add aircrafts to observe (`add_aircraft(self, aircraft)`) and list all flights and their manifests (`get_manifests` which returns a list containing the manifest of each airplane)
+
+![image](resource/illustration.png)
+
