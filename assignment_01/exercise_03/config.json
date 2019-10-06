@@ -1,4 +1,5 @@
 {
+    "title": "Geography",
     "type":"singleChoice",
     "solutions": ["Bern"],
     "options": ["Zuerich", "Bern", "Dubai", "Tokyo"],

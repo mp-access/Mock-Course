@@ -1,4 +1,5 @@
 {
+    "title": "Addition",
     "type": "text",
     "solutions": ["^100$"],
     "maxScore": 1,
