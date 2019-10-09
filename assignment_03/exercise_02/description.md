@@ -1,4 +1,3 @@
-# Basic Data Science
 In this task, you will perform some basic data science on a small dataset containing information about dogs in the city of Zurich. You are given a csv file with the raw data and have to implement some functions that help you answer statistical questions about the data.
 
 
