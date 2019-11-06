@@ -5,8 +5,8 @@
     "maxSubmits": 3,
     "maxScore": 10,
     "rounding": {
-        "strategy": "UP",
-        "precision": "5"
+        "strategy": "FLOOR",
+        "steps": "2"
     },
     "executionLimits": {
         "memory": "64",
