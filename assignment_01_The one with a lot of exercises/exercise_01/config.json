@@ -4,6 +4,10 @@
     "language":"python",
     "maxSubmits": 3,
     "maxScore": 10,
+    "rounding": {
+        "roundingStrategy": "UP",
+        "precision": "5"
+    },
     "executionLimits": {
         "memory": "64",
         "cpuCores": "1",
