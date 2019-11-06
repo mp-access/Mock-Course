@@ -5,7 +5,7 @@
     "maxSubmits": 3,
     "maxScore": 10,
     "rounding": {
-        "roundingStrategy": "UP",
+        "strategy": "UP",
         "precision": "5"
     },
     "executionLimits": {
