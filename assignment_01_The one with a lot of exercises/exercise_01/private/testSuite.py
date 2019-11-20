@@ -43,7 +43,7 @@ class Task1Test(TestCase):
         short_haul_flight = self.student_submission.ShortHaulAircraft(90, "short")
 
         self.assertTrue(isinstance(intercontinental_flight, self.student_submission.Aircraft),
-                        "@#@IntercontinentalAircraft should inherit from Aircraft@#@")
+                        "@@IntercontinentalAircraft should inherit from Aircraft@@")
         self.assertTrue(isinstance(short_haul_flight, self.student_submission.Aircraft), "@#@ShortHaulAircraft should inherit from Aircraft@#@")
 
     def test_aircraft_get_name(self):
