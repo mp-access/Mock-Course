@@ -34,6 +34,9 @@ class Task1Test(TestCase):
     MODULE_NAME = 'public.script'
     TEST_FILE_PATH = './public/script.py'
 
+    def tearDown(self):
+        devnull.close()
+
     def setUp(self):
         print
         self.student_submission = reload_module(self.MODULE_NAME, './public/script.py', [])
