@@ -1,3 +1,1 @@
 Use string slicing to split the word "doghouse" into the two separate English words "dog" and "house". Define two variables `dog` and `house` to hold the values.
-
-sorry kolleg
