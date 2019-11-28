@@ -1,0 +1,21 @@
+{
+    "title":            "Title",                   
+    "longTitle":        "Long Title",
+    "type":             "code",
+    "language":         "python",
+    "isGraded":         "true",
+    "maxSubmits":       3,
+    "maxScore":         10,
+    "rounding": 
+    {
+        "strategy":     "ROUND",
+        "steps":        "4"
+    },
+    "executionLimits": 
+    {
+        "memory":       "64",
+        "cpuCores":     "1",
+        "timeout":      "3000",
+        "networking":   false
+    }
+}
