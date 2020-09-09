@@ -9,7 +9,8 @@
         "admin@test.uzh.ch"
     ],
     "assistants": [
-        "assistant@test.uzh.ch"
+        "assistant@test.uzh.ch",
+        "alexander.hofmann@uzh.ch"
     ],
     "students": [
         "student@test.uzh.ch",
