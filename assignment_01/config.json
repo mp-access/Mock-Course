@@ -1,0 +1,11 @@
+{
+    "ordinalNum": 1,
+    "url": "basics",
+    "title": "Basics",
+    "description": "Praesent metus tellus, elementum eu, semper a, adipiscing nec, purus. Praesent porttitor, nulla vitae posuere iaculis, arcu nisl dignissim dolor, a pretium mi sem ut ipsum. Nam at tortor in tellus interdum sagittis. Fusce neque. Praesent congue erat at massa.",
+    "startDate": "2019-09-01 10:00",
+    "endDate": "2019-12-31 16:00",
+    "tasks": [
+      "variable_assignment"
+    ]
+}

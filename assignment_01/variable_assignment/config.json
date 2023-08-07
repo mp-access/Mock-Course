@@ -1,0 +1,25 @@
+{
+    "ordinalNum": 1,
+    "url": "variable-assignment",
+    "title": "Variable Assignment",
+    "instructions": "description.md",
+    "type":"code",
+    "language":"python",
+    "attemptRefill": 2000,
+      "evaluator": {
+        "dockerImage":"python:latest",
+        "runCommand": "python public/script.py",
+        "testCommand": "python -m unittest discover public -v",
+        "gradeCommand": "python grading/tests.py"
+    },
+    "maxAttempts": 5,
+    "maxPoints": 12,
+    "files": {
+        "publish": {
+            "startDate": ["public/script.py", "public/tests.py"]
+        },
+        "editable": ["public/script.py", "public/tests.py"],
+        "grading": ["grading/tests.py"]
+    }
+
+}

@@ -1,19 +1,12 @@
 {
     "title": "Mock Course",
+    "url": "mock-course",
     "description": "Some arbitrary description for this mock course.",
     "startDate":"2019-09-22",
-    "endDate":"2020-01-01",
+    "endDate":"2120-01-01",
     "owner": "Prof. Harald Gall",
     "semester": "HS 2019",
-    "admins": [
-        "admin@test.uzh.ch"
-    ],
-    "assistants": [
-        "assistant@test.uzh.ch",
-        "alexander.hofmann@uzh.ch"
-    ],
-    "students": [
-        "student@test.uzh.ch",
-        "dont-use-user-results-export@test.uzh.ch"
+    "assignments": [
+      "assignment_01"
     ]
 }

@@ -1,8 +1,0 @@
-{
-    "title": "Folder Test",
-    "longTitle": "Testing the folder stucture",
-    "type":"code",
-    "language":"python",
-    "maxSubmits": 5,
-    "maxScore": 10
-}
